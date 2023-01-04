@@ -1,5 +1,6 @@
 # a-pass
-a password store based on age-encryption
+a password store based on age-encryption.
+http://www.a-pass.de
 
 
 ## Run commands
