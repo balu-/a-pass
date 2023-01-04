@@ -7,7 +7,7 @@ http://www.a-pass.de
     source venv/bin/activate
     python3 -m apass --help
 
-<code>
+```sh
 usage: apass [-h] {init,show,insert,generate,update,delete,shell} ...
 
 apass is a tool to store and access your password in a crypted wallet.
@@ -25,7 +25,7 @@ positional arguments:
 
 options:
   -h, --help            show this help message and exit
-</code>
+```
 
 
 ## Run Tests
