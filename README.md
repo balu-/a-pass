@@ -6,8 +6,14 @@
 
 
 <p align="center">
-  <img align="center" src="./img/windowdark.png" width="400" />
-  <img align="center" src="./img/windowPwgen.png" width="400" />
+	<a href="https://a-pass.de/#gh-light-mode-only">
+    	<img src="./img/gif/openVault.gif" alt="APass open vault" />
+	</a>
+	<a href="https://a-pass.de/#gh-dark-mode-only">
+		<img src="./img/gif/openVault_dark.gif" alt="APass open vault" />
+	</a>
+  <!--<img align="center" src="./img/windowdark.png" width="400" />
+  <img align="center" src="./img/windowPwgen.png" width="400" />-->
 </p>
 
 
