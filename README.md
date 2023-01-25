@@ -1,5 +1,10 @@
 <p align="center">
-<img align="center" src="./img/Logo.png" width="400" />
+	<a href="https://a-pass.de/#gh-light-mode-only">
+    	<img src="./img/Logo_header_dark.png" alt="APass Logo" width="400" />
+	</a>
+	<a href="https://a-pass.de/#gh-dark-mode-only">
+		<img src="./img/Logo_header.png" alt="APass Logo" width="400" />
+	</a>
 </p>
 <h3 align="center">Apass a Password-Manager based on strong and open cryptography<sup>1</sup></h3> 
 <p align="center">so you are the only one with access to your secrets.</p>
