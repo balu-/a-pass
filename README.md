@@ -1,18 +1,8 @@
 <p align="center">
 <img align="center" src="./img/Logo.png" width="400" />
 </p>
-
-# A-Pass
-
-Apass a Password-Manager based on strong and open cryptography[^1],
-\
-so _you_ only have to remember a single password and your the only one with acces to your secrets.
-It has a powerfull & configurable password-generator so all the sometimes stupid password restrictions can be met.
-It is based on strong and open security by default so you can trust and rely on it. 
-The way in which your secrets are cryped is documented so your secrets can be restored even without APass.
-Its your data, and yours only. Ownership of your data is important, especially when it comes to passwords and other secrets. 
-We believe that this is only possible if the software that stores it runs on your machine and keeps your data there. 
-You may decide to sync and/or backup data to other places but we feel that you can only rely on a password manager that is able to fulfill its job offline. We call it the local first approach.
+<h3 align="center">Apass a Password-Manager based on strong and open cryptography<sup>1</sup></h3> 
+<p align="center">so you are the only one with access to your secrets.</p>
 
 
 <p align="center">
