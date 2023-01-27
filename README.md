@@ -22,6 +22,9 @@
 </p>
 
 
+Say goodbye to the hassle of remembering multiple passwords with A-Pass, the ultimate password manager. A-Pass securely stores all of your login information in one convenient location, accessible with just one master password. Say goodbye to the fear of your password being hacked and hello to the peace of mind that comes with knowing your information is safe and secure. [Try it](https://github.com/balu-/a-pass/releases) today and simplify your digital life! 
+
+
 ## Features
 
 ### 🔐 You own your data!
@@ -38,7 +41,8 @@ so you can trust and rely on it.
 The way in which your secrets are cryped will be documented so your secrets can be restored even without APass.
 
 ### 🔐 Powerfull & Configurable Password-Generator
-APass has a password-generator on board that lets you specify features that a generated password should have so you can easily meet all the password requirements.
+APass has a powerfull password-generator on board. 
+It generate secure and random passwords for you, which can help you avoid using easily guessable passwords. Further its very configurable so you can specify features that a generated password should have by that you can easily meet all the password requirements.
 
 ### 🔐 Easy to use
 
@@ -62,9 +66,15 @@ Look at the [Releases page](https://github.com/balu-/a-pass/releases) and
 grab your copy and start using APass.
 
 
-
-
 [^1]: Based on [age-encryption.org](https://age-encryption.org)
+
+
+## more Images
+
+<p align="center">
+  <img align="center" src="./img/windowdark.png" width="400" />
+  <img align="center" src="./img/windowPwgen.png" width="400" />
+</p>
 
 
 ## Sourcecode for Cli Tool in main Branch
