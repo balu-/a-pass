@@ -7,3 +7,4 @@ sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '..')
 from apass.entry import Entry
 from apass.repo import Repo
 from apass.util import password
+from apass.util import totp
