@@ -39,6 +39,7 @@ from getpass import getpass
 
 from .repo import Repo
 from .entry import Entry
+from .util import totp
 
 
 def getPassword(prompt:str="Enter the password to open the vault:")->str:
@@ -59,6 +60,10 @@ def stringifyEntry(e:Entry, printPassword:bool=False) -> str:
         attr = value.getAttribute()
         if not printPassword and value.getType() == Entry.Value.TYPE_PASSWORD:
             v_str[key] = "***"
+        elif not printPassword and value.getType() == Entry.Value.TYPE_TOTP:
+            #genrate totp value
+            v_str[key] = totp.fromUrl(str(value))[2]
+            #pass
         else:
             v_str[key] = str(value)
         #if hasattr(v[key],"type")
