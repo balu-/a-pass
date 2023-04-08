@@ -68,6 +68,11 @@ grab your copy and start using APass.
 
 [^1]: Based on [age-encryption.org](https://age-encryption.org)
 
+### Alpha A-Pass Firefox Companion extension
+
+[Here](https://github.com/balu-/a-pass-firefox-companion) is a basic firefox companion extension, 
+that is able to prefill username & password fields up on opening the url from a-pass. The mechanism is alpha and not final, use with caution.
+
 
 ## more Images
 
