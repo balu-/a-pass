@@ -44,6 +44,9 @@ The way in which your secrets are cryped will be documented so your secrets can 
 APass has a powerfull password-generator on board. 
 It generate secure and random passwords for you, which can help you avoid using easily guessable passwords. Further its very configurable so you can specify features that a generated password should have by that you can easily meet all the password requirements.
 
+### 🔐 Browser Companion addon
+The [a-pass-firefox-companion](https://github.com/balu-/a-pass-firefox-companion) is a firefox add-on that enables autofill of user and password fields stored in Apass. The add-on integrates seamlessly with Firefox and provides a user-friendly interface for autofilling login credentials, you can get it via the [Firefox Add-ons website](https://addons.mozilla.org/en-US/firefox/addon/a-pass-browsercompanion/).
+
 ### 🔐 Easy to use
 
 ## Get started
